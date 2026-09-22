@@ -1,8 +1,8 @@
 # Object-Oriented Programming with C++ — Unit I: Basics of OOP
 
-**Student Name:** Devesh Manoj Nehete
-**PRN:** [126UAD2008]
-**Class/Division:** S.Y. B.Tech. (Artificial Intelligence and Data Science) / Div. [F]
+**Student Name:** Pragati kashinath pawar
+**PRN:** [125UAD1145]
+**Class/Division:** S.Y. B.Tech. (Artificial Intelligence and Data Science) / Div. [c]
 **Course Name:** Object-Oriented Programming with C++ (ADPC303)
 **Unit:** I — Basics of OOP (Data Types, Control Structures, Functions, Classes & Objects)
 
